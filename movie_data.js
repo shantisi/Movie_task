@@ -77,7 +77,6 @@ export const movie_data = [{
     id:8,
     
 },
-
 {
     movie_name: 'The Pursuit Of Happiness',
     year_time:'2006 • 1h 52m',
@@ -88,6 +87,7 @@ export const movie_data = [{
     id:9,
     
 },
+
 {
     movie_name: 'The Intouchables',
     year_time: '2011 • 1h 52m',
