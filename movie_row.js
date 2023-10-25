@@ -3,9 +3,9 @@ import { movie_data} from './movie_data.js';
 const Movie_row=({movies,onDelete}) =>{
     return(
     <> 
-        <div className ="movie_row">
-            <div className ="img_col">
-                <img className="movie_row1"src={movies.image} alt ="movie"/>
+    	<div className ="movie_row">
+    		<div className ="img_col">
+    			<img className="movie_row1"src={movies.image} alt ="movie"/>
             </div>
             <div className="img_col1">
                 <div className="Details">
@@ -16,9 +16,7 @@ const Movie_row=({movies,onDelete}) =>{
                 </div>
                  
                 <Action_row onDelete={onDelete} movie={movies}/>
-                
-                
-            </div>
+			</div>
         </div>
       </>
     );
