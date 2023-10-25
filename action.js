@@ -1,4 +1,6 @@
  "use client"
+ 
+ 
 import Handledelete from "./delete.js"
 import React, { useState } from 'react';
 const Action_row =({onDelete})=> {
