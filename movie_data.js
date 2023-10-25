@@ -55,6 +55,7 @@ export const movie_data = [{
     id:6,
     
 },
+
 {
     movie_name: 'Bend It Like Beckham',
     year_time: '2002 • 2h 28m',
@@ -65,6 +66,7 @@ export const movie_data = [{
     id:7,
     
 },
+
 {
     movie_name: 'In To The Wild',
     year_time: '2007 • 2h 28m',
@@ -75,6 +77,7 @@ export const movie_data = [{
     id:8,
     
 },
+
 {
     movie_name: 'The Pursuit Of Happiness',
     year_time:'2006 • 1h 52m',
