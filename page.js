@@ -1,5 +1,6 @@
 
 "use client"
+
 import './globals.css';
 import Header from './Header.js';
 import Movie_row from './movie_row.js';
