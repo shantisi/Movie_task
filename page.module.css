@@ -6,7 +6,6 @@
   padding: 6rem;
   min-height: 100vh;
 }
-
 .description {
   display: inherit;
   justify-content: inherit;
@@ -17,14 +16,12 @@
   z-index: 2;
   font-family: var(--font-mono);
 }
-
 .description a {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.5rem;
 }
-
 .description p {
   position: relative;
   margin: 0;
@@ -33,19 +30,16 @@
   border: 1px solid rgba(var(--callout-border-rgb), 0.3);
   border-radius: var(--border-radius);
 }
-
 .code {
   font-weight: 700;
   font-family: var(--font-mono);
 }
-
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(25%, auto));
   width: var(--max-width);
   max-width: 100%;
 }
-
 .card {
   padding: 1rem 1.2rem;
   border-radius: var(--border-radius);
@@ -53,7 +47,6 @@
   border: 1px solid rgba(var(--card-border-rgb), 0);
   transition: background 200ms, border 200ms;
 }
-
 .card span {
   display: inline-block;
   transition: transform 200ms;
